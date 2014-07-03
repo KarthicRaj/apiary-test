@@ -14,7 +14,7 @@ This functioanlity fetches the item by Part number.
     +  Body
     
             {
-              "responseTime" : "235",
+              "responseTime" : "236",
               "CatalogEntryView" : [ {
                 "partNumber" : "something",
                 "DPCI" : "something",
