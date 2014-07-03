@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: http://tws.target.com/wcs/resources/store/10151/guestidentity
+HOST: http://tws.target.com/wcs/resources/store/10151/guestIdentity
 
 # Guest Identity API
 API to create identity (Authorization) for guest user.The information returned by this service can be used for invoking the services that require authentication.
