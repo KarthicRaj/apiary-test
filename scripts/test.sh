@@ -1,4 +1,4 @@
 #!/bin/sh
-dredd browse_prod.md http://tws.target.com/productservice/services/item_service/v1/by_itemid?id=1223&alt=json
+dredd guestIdentity.md http://tws.target.com/wcs/resources/store/10151/guestidentity
 RESULT=$?
 exit $RESULT
